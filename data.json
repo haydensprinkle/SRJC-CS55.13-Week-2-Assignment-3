@@ -1,0 +1,26 @@
+[
+    {
+        "game":"Doom Eternal",
+        "studio":"ID Software"
+    },
+    {
+        "game":"Final Fantasy VII Remake",
+        "studio":"Square Enix"
+    },
+    {
+        "game":"Ghost of Tsushima",
+        "studio":"Suckerpunch"
+    },
+    {
+        "game":"Hades",
+        "studio":"Supergiant Games"
+    },
+    {
+        "game":"Animal Crossing: New Horizons",
+        "studio":"Nintendo"
+    },
+    {
+        "game":"The Last of Us Part II",
+        "studio":"Naughty Dog"
+    }
+]
