@@ -1,26 +1,26 @@
 [
     {
-        "game":"Doom Eternal",
-        "studio":"ID Software"
+        "game":"Deathloop",
+        "studio":"Arkane Studios"
     },
     {
-        "game":"Final Fantasy VII Remake",
-        "studio":"Square Enix"
+        "game":"It Takes Two",
+        "studio":"Hazelight Studios"
     },
     {
-        "game":"Ghost of Tsushima",
-        "studio":"Suckerpunch"
+        "game":"Metroid Dread",
+        "studio":"Mercury Steam"
     },
     {
-        "game":"Hades",
-        "studio":"Supergiant Games"
+        "game":"Psychonauts 2",
+        "studio":"Double Fine"
     },
     {
-        "game":"Animal Crossing: New Horizons",
-        "studio":"Nintendo"
+        "game":"Ratchet and Clank: Rift Apart",
+        "studio":"Insomniac Games"
     },
     {
-        "game":"The Last of Us Part II",
-        "studio":"Naughty Dog"
+        "game":"Resident Evil Village",
+        "studio":"Capcom"
     }
 ]
